@@ -14,6 +14,3 @@ In the admin account you can add employee account or create other roles as you w
 
 2) Files in the server should be in the folder Named exacly same as the "Graduation".
 
-
-# Lisence
-All the work done in this project is done by Omid Taghipour and they can be used for educational purposes.
